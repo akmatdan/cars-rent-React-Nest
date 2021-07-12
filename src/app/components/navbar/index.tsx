@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import tw from 'twin.macro';
-import { Logo } from './logo';
+import { Logo } from '../logo';
 
 const NavbarContainer = styled.div `
   min-height: 68px;
